@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 張烜
+title: 元宇宙張同學
 
 # Name pronunciation (optional)
-name_pronunciation: Xuan Zhang
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Xuan
@@ -11,7 +11,7 @@ last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👍
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Web3 Product Manager
+role: Web3 & AIGC Application Practice Mentor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: True Top Technology Development Center
-    url: https://true.top/
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,7 +48,8 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Blockchain Applications
+  - dWebsite Development
   - Information Retrieval
 
 education:
